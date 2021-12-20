@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Simple Map</title>
+    <title>myMap</title>
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
     <script src="https://code.jquery.com/jquery-3.6.0.js"
